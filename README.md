@@ -1,5 +1,6 @@
 # IT_Academy_Sprint3_M3_T2
-Exercicis amb Dataframes.
+Exercicis amb Dataframes.  
+Dataframe **Airlines Delay** https://www.kaggle.com/datasets/giovamata/airlinedelaycauses/ 
 
 ## Objectius:  
 
